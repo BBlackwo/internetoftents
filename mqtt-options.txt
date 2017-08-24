@@ -1,0 +1,9 @@
+mqtt.local
+
+test/foo
+
+#/temp/c
+
+#/pressure/pa
+
+#/humidity
